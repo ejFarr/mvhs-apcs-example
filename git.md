@@ -28,4 +28,4 @@
 ## Problems
 * commit without -m -> esc : wq
 * wrong message -> git commit --amend -m "new message"
-JIOCqfcuONCIOJJHWUIJHWHOJjhUIIO JIOJuuiuuiuu
+* wrong commit -> git checkout COMMMIT_ID
