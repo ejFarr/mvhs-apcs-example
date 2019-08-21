@@ -23,6 +23,8 @@
 * rm --cached -> remove file from stage
 * git commit -> a "present tense description of what changed"
 * log -> show history of commits, enter to move down a page
+* checkout --file -> discard changes if not on stage
 
 ## Problems
 * commit without -m -> esc : wq
+* wrong message -> git commit --amend -m "new message"
