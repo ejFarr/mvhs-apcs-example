@@ -21,7 +21,8 @@
 * status  -> tell me what files have been staged or commited
 * add -> add file to stage
 * rm --cached -> remove file from stage
-* add . -> all files to stage
 * git commit -> a "present tense description of what changed"
 * log -> show history of commits, enter to move down a page
-* 
+
+## Problems
+* commit without -m -> esc : wq
