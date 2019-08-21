@@ -23,3 +23,5 @@
 * rm --cached -> remove file from stage
 * add . -> all files to stage
 * git commit -> a "present tense description of what changed"
+* log -> show history of commits, enter to move down a page
+* 
