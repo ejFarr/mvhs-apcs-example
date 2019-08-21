@@ -4,6 +4,8 @@ public class Git
     {
         System.out.println("\"Git is fun!!!!!!!!!!!\"");
         System.out.println("Hi mom");
+        System.out.println("Literature is an interesting subject though most people nowadays don't respect it, KYLE");
+        System.out.println("Kyle stop asking questions");
         
     }
 }
